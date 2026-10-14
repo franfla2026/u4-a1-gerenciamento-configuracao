@@ -1,1 +1,8 @@
 Atividade U4 A1 — Gerenciamento de Configuração
+Atividade U4 A1 — Gerenciamento de Configuração
+
+Objetivo: demonstrar o controle de versão utilizando Git e GitHub.
+
+Etapa prática: arquivo obtido do repositório remoto, modificado localmente e preparado para atualização no GitHub.
+
+Resultado esperado: registrar a alteração por meio de commit e publicar a nova versão no repositório remoto.
