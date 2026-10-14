@@ -9,3 +9,4 @@ Etapa 2: Registro de alterações por meio de commits.
 Etapa 3: Organização e acompanhamento dos arquivos do projeto.
 
 Resultado esperado: manter um histórico das alterações realizadas no projeto de software.
+Etapa 4: Verificação do histórico de alterações do repositório.
